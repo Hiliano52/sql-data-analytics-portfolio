@@ -9,3 +9,4 @@ This repository contains production-ready SQL scripts, operational workflow diag
 3. **Operational SLA & Agent Efficiency (`03_sla_resolution_performance.sql`)**: Analyzes ticket metrics, resolution speed, and SLA compliance percentages to optimize support operations.
 4. **Operations & Escalation Workflow Architecture (`04_customer_operations_workflow.md`)**: Renders an interactive Mermaid.js diagram illustrating technical triage and SQL root-cause verification flows.
 5. **Enterprise CS & Churn Mitigation Playbook (`05_enterprise_customer_success_playbook.md`)**: Features a 30-60-90 day onboarding framework and account health matrix to secure Net Revenue Retention (NRR > 105%).
+6. **Enterprise Financial & Asset Governance Portfolio (`Vanguard_Portfolio_Overview.md`)**: Outlines strategic asset management, capital allocation, and risk mitigation methodologies.
